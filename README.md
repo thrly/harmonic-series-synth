@@ -1,4 +1,4 @@
-# [harmonic series generator](https://thrly.github.io/harmonic-series/)
+# [harmonic series generator](https://thrly.github.io/harmonic-series-synth/)
 
 _a synthesizer for exploring the timbre of the natural harmonic series_
 
@@ -10,10 +10,10 @@ _a synthesizer for exploring the timbre of the natural harmonic series_
 > Second harmonic (𝑓2) = 𝑓∗2= 110 Hz; 
 > Third harmonic (𝑓3) = 𝑓∗3= 165 Hz and so on...
 
-Listen: https://thrly.github.io/harmonic-series/
+Listen: https://thrly.github.io/harmonic-series-synth/
 
 ## Instructions
-1. Open the synth: https://thrly.github.io/harmonic-series/
+1. Open the synth: https://thrly.github.io/harmonic-series-synth/
 2. Set a fundamental frequency (default 55 Hz) on top-right.
 3. Use the 'Start/Stop' button to turn audio on/off.
 4. Adjust the gain of each partial to mix harmonics.
